@@ -13,4 +13,3 @@ def np_matmul(mat1, mat2):
         Multiply two Matrices
     '''
     return np.matmul(mat1, mat2)
-    
