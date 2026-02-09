@@ -11,3 +11,4 @@ def np_transpose(matrix):
         that transposes matrix:
     '''
     return matrix.transpose()
+    
